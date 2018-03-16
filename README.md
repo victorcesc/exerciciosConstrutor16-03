@@ -6,4 +6,5 @@
 Metodos :
 
 -desenharASCII
+
 -desenharUTF8
